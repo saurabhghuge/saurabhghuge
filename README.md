@@ -42,3 +42,45 @@ add new system inprofile
 <code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ![](https://komarev.com/ghpvc/?username=saurabhghuge)
+
+
+## Skills
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src=""  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src=""  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src=""  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src=""  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="" width="120" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src=""  height="75" />
+  </a>
+  <a href="https://grpc.io/" target="_blank" >
+    <img src=""  height="75" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="" height="70" />
+  </a>
+ </p>
+  
+### CSPs
+  
+ <p float="left">
+  <a href="https://bit.ly/2W7a91W" target="_blank" >
+    <img src=""  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src=""  height="75" />
+  </a>
+ </p>
+
