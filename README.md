@@ -19,11 +19,11 @@ add new system inprofile
 
 - ✈️ Hire me for remote work & internships :)
 - 🔭 I’m always trying to grow and learn something new.
-- 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://adyablogs.tech/).
-- ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
-- 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/Adyasha8105).
-- ⚡ Facts about me: I love to hear [lofi](https://www.lofibolly.club/) and 90 songs while scribbling on ipad and like to watch movies, series!
-- 🎉 Let's connect [here](https://adyasha.bio.link/).
+- 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://medium.com/@saurabhghuge).
+<!-- - ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic! -->
+- 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/SaurabhGhuge16).
+- ⚡ Facts about me: I love to play FIFA and Read History!
+- 🎉 Let's connect [here](https://www.linkedin.com/in/saurabhghuge/).
 
 
 #### Languages and Tools
