@@ -1,5 +1,7 @@
-### Hi there 👋
+ ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
+  
+  
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - ✈️ Hire me for remote work & internships :)
 - 🔭 I’m always trying to grow and learn something new.
