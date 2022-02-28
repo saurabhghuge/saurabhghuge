@@ -5,10 +5,10 @@
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - ✈️ Hire me for remote work & internships :)
 - 🔭 I’m always trying to grow and learn something new.
-- 🎯 I’m currently learning AWS Certified Developer
+- 🎯 I’m currently learning/exploring AWS Certified Developer - Associate 
 - 🌱 Meanwhile I'm sharing my new learnings on my personal [blog](https://medium.com/@saurabhghuge).
 - 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/SaurabhGhuge16).
-- ⚡ Facts about me: Always in for play FIFA 🎮 and Read History ⚔!
+- ⚡ Facts about me: Always in to play FIFA 🎮 and History talks ⚔!
 - 🎉 Let's connect [here](https://www.linkedin.com/in/saurabhghuge/).
 <!-- - ⛵ 2021 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic! -->
 
