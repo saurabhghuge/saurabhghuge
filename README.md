@@ -75,9 +75,9 @@
 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhghuge&layout=compact&hide=html" alt="saurabhghuge" /> </p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhghuge&layout=compact&hide=html" alt="saurabhghuge" /> </p> -->
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhghuge&show_icons=true&theme=algolia&count_private=true&hide=issues)
+<!-- ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhghuge&show_icons=true&theme=algolia&count_private=true&hide=issues) -->
 
 
 ![](https://komarev.com/ghpvc/?username=saurabhghuge)
